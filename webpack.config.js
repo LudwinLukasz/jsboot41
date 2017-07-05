@@ -2,7 +2,7 @@
 module.exports = {
     entry: './src/app.js',
     output: {
-        path: './build',
+        path: '/luk/JS_bootcamp/JSboot41/build',
         filename: 'app.bundle.js'
     }
 };
